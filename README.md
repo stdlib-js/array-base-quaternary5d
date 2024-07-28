@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import quaternary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quaternary5d@deno/mod.js';
+import quaternary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quaternary5d@v0.2.2-deno/mod.js';
 ```
 
 #### quaternary5d( arrays, shape, fcn )
@@ -99,7 +99,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filled5dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled5d-by@deno/mod.js';
 import zeros5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-zeros5d@deno/mod.js';
 import add from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-ops-add4@deno/mod.js';
-import quaternary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quaternary5d@deno/mod.js';
+import quaternary5d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-quaternary5d@v0.2.2-deno/mod.js';
 
 var shape = [ 1, 1, 3, 3, 3 ];
 
